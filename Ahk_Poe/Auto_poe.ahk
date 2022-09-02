@@ -2,6 +2,7 @@
 #SingleInstance , Force
 ; #IfWinActive  Path of Exile
 
+
 ; parameter
 ; SetMouseDelay 150
 ; SetWorkingDir %A_ScriptDir% 
