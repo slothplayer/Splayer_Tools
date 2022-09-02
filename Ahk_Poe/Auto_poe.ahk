@@ -1,7 +1,3 @@
-; ###########################
-; # Expedition Tujen Haggle #
-; ###########################
-
 #NoEnv 
 #SingleInstance , Force
 ; #IfWinActive  Path of Exile
