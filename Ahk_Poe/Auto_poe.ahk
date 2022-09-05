@@ -1,11 +1,8 @@
 #NoEnv 
 #SingleInstance , Force
-; #IfWinActive  Path of Exile
 
-; parameter
-; SetMouseDelay 150
 SetWorkingDir %A_ScriptDir% 
-; SendMode, Input
+
 configini = %A_scriptdir%\src\config.ini
 sys_flag := 0
 
@@ -31,12 +28,13 @@ $F2::
 	if (sys_Flag = 0)
 		return
 	
+	local_sleep := 20
 	Loop{
 	    if !GetKeyState("CapsLock", "P")
 	        break
 		
 	    Click
-		Sleep 10
+		Sleep local_sleep
 	}
 
 	return
