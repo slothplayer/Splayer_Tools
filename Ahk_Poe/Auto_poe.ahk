@@ -9,12 +9,12 @@
 ConfigINI := %A_scriptdir%\config.ini
 sys_flag := 0
 
-ifnotexist,%ConfigINI%{
-	IniWrite, 0	, %ConfigINI%, ConfirmPos, xx
-	IniWrite, 0	, %ConfigINI%, ConfirmPos, yy
-	IniWrite, 0	, %ConfigINI%, RerollPos, xx
-	IniWrite, 0	, %ConfigINI%, RerollPos, yy
-}
+; ifnotexist,%ConfigINI%{
+; 	IniWrite, 0	, %ConfigINI%, ConfirmPos, xx
+; 	IniWrite, 0	, %ConfigINI%, ConfirmPos, yy
+; 	IniWrite, 0	, %ConfigINI%, RerollPos, xx
+; 	IniWrite, 0	, %ConfigINI%, RerollPos, yy
+; }
 
 ; F1 => sys ON
 $F1::
@@ -56,8 +56,8 @@ $+1::
 		rCordXX = %xx%
 		rCordYY = %yy%
 		BlockInput, MouseMove
-		IniRead, CordXX, Config.ini, ConfirmPos, xx
-		IniRead, CordYY, Config.ini, ConfirmPos, yy
+		IniRead, CordXX, config.ini, ConfirmPos, xx
+		IniRead, CordYY, config.ini, ConfirmPos, yy
 		MouseMove, CordXX , CordYY , 0
 		
 		Click
@@ -86,8 +86,8 @@ $+2::
 		MouseGetPos xx, yy
 		rCordXX = %xx%
 		rCordYY = %yy%
-		IniRead, CordXX, Config.ini, RerollPos, xx
-		IniRead, CordYY, Config.ini, RerollPos, yy
+		IniRead, CordXX, config.ini, RerollPos, xx
+		IniRead, CordYY, config.ini, RerollPos, yy
 		MouseMove, CordXX , CordYY , 0
 		
 		Sleep 200
