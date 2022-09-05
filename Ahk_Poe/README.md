@@ -4,7 +4,6 @@
 執行AutoPoe_initial.ahk
 
 
-
 ## 按鍵觸發 
 F1啟動
 
