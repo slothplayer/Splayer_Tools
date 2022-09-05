@@ -6,13 +6,6 @@ SetWorkingDir %A_ScriptDir%
 configini = %A_scriptdir%\src\config.ini
 sys_flag := 0
 
-; ifnotexist,%ConfigINI%{
-; 	IniWrite, 0	, %configini%, ConfirmPos, xx
-; 	IniWrite, 0	, %configini%, ConfirmPos, yy
-; 	IniWrite, 0	, %configini%, RerollPos, xx
-; 	IniWrite, 0	, %configini%, RerollPos, yy
-; }
-
 ; F1 => sys ON
 $F1::
 	sys_flag := 1
@@ -132,18 +125,3 @@ $+R::
 
 	return
 
-; shift + F9
-$+F9::
-	MouseGetPos xx, yy
-	IniWrite, %xx%, %configini%, ConfirmPos, xx
-	IniWrite, %yy%,	%configini%, ConfirmPos, yy
-	
-	return
-
-; shift + F10
-$+F10::
-	MouseGetPos xx, yy
-	IniWrite, %xx%,	%configini%, RerollPos, xx
-	IniWrite, %yy%,	%configini%, RerollPos, yy
-
-	return
