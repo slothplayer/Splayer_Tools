@@ -1,6 +1,8 @@
+; initial undone
+; 
+ 
 #NoEnv 
 #SingleInstance , Force
-
 SetWorkingDir %A_ScriptDir% 
 
 configini = %A_scriptdir%\src\config.ini
