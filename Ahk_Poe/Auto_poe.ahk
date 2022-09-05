@@ -4,16 +4,16 @@
 
 ; parameter
 ; SetMouseDelay 150
-; SetWorkingDir %A_ScriptDir% 
+SetWorkingDir %A_ScriptDir% 
 ; SendMode, Input
-ConfigINI := %A_scriptdir%\config.ini
+configini = %A_scriptdir%\src\config.ini
 sys_flag := 0
 
 ; ifnotexist,%ConfigINI%{
-; 	IniWrite, 0	, %ConfigINI%, ConfirmPos, xx
-; 	IniWrite, 0	, %ConfigINI%, ConfirmPos, yy
-; 	IniWrite, 0	, %ConfigINI%, RerollPos, xx
-; 	IniWrite, 0	, %ConfigINI%, RerollPos, yy
+; 	IniWrite, 0	, %configini%, ConfirmPos, xx
+; 	IniWrite, 0	, %configini%, ConfirmPos, yy
+; 	IniWrite, 0	, %configini%, RerollPos, xx
+; 	IniWrite, 0	, %configini%, RerollPos, yy
 ; }
 
 ; F1 => sys ON
@@ -27,7 +27,7 @@ $F2::
 	return
 
 ; CapsLock hold => click
-~*$CapsLock::
+*$CapsLock::
 	if (sys_Flag = 0)
 		return
 	
@@ -35,8 +35,8 @@ $F2::
 	    if !GetKeyState("CapsLock", "P")
 	        break
 		
-	    Sleep 10
 	    Click
+		Sleep 10
 	}
 
 	return
@@ -56,8 +56,8 @@ $+1::
 		rCordXX = %xx%
 		rCordYY = %yy%
 		BlockInput, MouseMove
-		IniRead, CordXX, config.ini, ConfirmPos, xx
-		IniRead, CordYY, config.ini, ConfirmPos, yy
+		IniRead, CordXX, %configini%, ConfirmPos, xx
+		IniRead, CordYY, %configini%, ConfirmPos, yy
 		MouseMove, CordXX , CordYY , 0
 		
 		Click
@@ -86,8 +86,8 @@ $+2::
 		MouseGetPos xx, yy
 		rCordXX = %xx%
 		rCordYY = %yy%
-		IniRead, CordXX, config.ini, RerollPos, xx
-		IniRead, CordYY, config.ini, RerollPos, yy
+		IniRead, CordXX, %configini%, RerollPos, xx
+		IniRead, CordYY, %configini%, RerollPos, yy
 		MouseMove, CordXX , CordYY , 0
 		
 		Sleep 200
@@ -100,18 +100,52 @@ $+2::
 	
 	return
 
+; shift + r => scouring + alc
+$+R::
+	if (sys_Flag = 0)
+		return
+
+	local_sleep := 20
+	IniRead, scouring_x, %configini%, currency_scouring, scouring_x
+	IniRead, scouring_y, %configini%, currency_scouring, scouring_y
+	IniRead, alc_x, %configini%, currency_alc, alc_x
+	IniRead, alc_y, %configini%, currency_alc, alc_y
+	MouseGetPos, mouse_x, mouse_y
+	
+	BlockInput, MouseMove
+	
+	MouseMove, scouring_x , scouring_y , 0
+	Send {Click Right}
+	Sleep local_sleep
+
+	MouseMove, mouse_x , mouse_y , 0	
+	Send  {Click}
+	Sleep local_sleep
+	
+	MouseMove, alc_x , alc_y , 0	
+	Send {Click Right}
+	Sleep local_sleep
+
+	MouseMove, mouse_x , mouse_y , 0	
+	Send {Click}
+	Sleep local_sleep
+	
+	BlockInput, MouseMoveOff
+
+	return
+
 ; shift + F9
 $+F9::
 	MouseGetPos xx, yy
-	IniWrite, %xx%, %ConfigINI%, ConfirmPos, xx
-	IniWrite, %yy%,	%ConfigINI%, ConfirmPos, yy
+	IniWrite, %xx%, %configini%, ConfirmPos, xx
+	IniWrite, %yy%,	%configini%, ConfirmPos, yy
 	
 	return
 
 ; shift + F10
 $+F10::
 	MouseGetPos xx, yy
-	IniWrite, %xx%,	%ConfigINI%, RerollPos, xx
-	IniWrite, %yy%,	%ConfigINI%, RerollPos, yy
+	IniWrite, %xx%,	%configini%, RerollPos, xx
+	IniWrite, %yy%,	%configini%, RerollPos, yy
 
 	return
