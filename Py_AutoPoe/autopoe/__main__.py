@@ -6,9 +6,12 @@ pag.FAILSAFE = False
 fps_60 = 60/1000
 
 def test():
-	while(1):
-		print(pag.position())
-		time.sleep(fps_60)
+	# while(1):
+	# 	print(pag.position())
+	# 	time.sleep(fps_60)
+
+	temp = pag.screenshot()
+	temp.save(r'./data/temp.jpg')
 
 def main():
 	test()
