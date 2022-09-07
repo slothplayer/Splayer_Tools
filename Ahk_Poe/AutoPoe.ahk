@@ -1,6 +1,6 @@
 ; initial undone
 ; 
- 
+
 #NoEnv 
 #SingleInstance , Force
 SetWorkingDir %A_ScriptDir% 
@@ -34,6 +34,7 @@ $F2::
 
 	return
 
+; ! => alt
 ; shift + 1
 $+1::
 	if (sys_flag = 0)
@@ -95,7 +96,7 @@ $+2::
 
 ; shift + r => scouring + alc
 $+R::
-	if (sys_Flag = 0)
+	if (sys_flag = 0)
 		return
 
 	local_sleep := 20
