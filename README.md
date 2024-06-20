@@ -2,6 +2,6 @@
 
 [TOC]
 
-## This is Splayer's toolbox
+## Splayer's toolbox
 
 
